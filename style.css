@@ -191,7 +191,7 @@ footer .nav-link {
 	border-radius: 16px;
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1200px){
 
 	.content{
 		margin: 0 16px;
