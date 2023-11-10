@@ -213,7 +213,7 @@ footer .nav-link {
 		margin-bottom: 24px;
 	}
 
-	h1{
+	.mainPage__title{
 		margin: 32px 0;
 		font-size: 32px;
 		max-width: 350px;
