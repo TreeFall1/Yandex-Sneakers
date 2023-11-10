@@ -110,6 +110,7 @@ h1 {
 
 /* стили для карточки кроссовок */
 .sneaker {
+	cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
